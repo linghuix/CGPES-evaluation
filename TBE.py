@@ -83,7 +83,7 @@ def test_tbe():
  
     # plot
     plt.subplot(211); plt.plot(data_event)
-    plt.subplot(212); plt.plot(fai)
+    plt.subplot(211); plt.plot(fai)
     plt.show()
 
  
